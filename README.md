@@ -1,2 +1,17 @@
-# alttjs
-Adaptive Latent Trait Testing Framework
+# Alttjs Adaptive Latent Trait Testing Framework
+Alttjs is an CAT (Computer Adaptive Testing) Implementation for Javascript Written in nodeJS
+
+Goal : An Open Source Implementation of Multidimensional Computer adaptive Testing using the item Response Theory Methodology.
+
+## How it works
+Alttjs is a framework for developing applications that require CAT and IRT methodologies in the application logic.
+Whether you are grading some class notes ...
+...Or Writing an application for grading Standardized Tests for Thousands of users.
+
+###Create a Test according to the IRT methodology
+
+###Defining Item banks and estimating item parameters
+
+###Suscribing Users to tests, And making tests available.
+
+###Using the item retrieval and response API
