@@ -8,6 +8,8 @@ Alttjs is a framework for developing applications that require CAT and IRT metho
 Whether you are grading some class notes ...
 ...Or Writing an application for grading Standardized Tests for Thousands of users.
 
+Two roles are featured in the API , test administrators, and test takers.
+
 ###Create a Test according to the IRT methodology
 
 ###Defining Item banks and estimating item parameters
@@ -15,3 +17,15 @@ Whether you are grading some class notes ...
 ###Suscribing Users to tests, And making tests available.
 
 ###Using the item retrieval and response API
+
+
+## Instalation
+
+## Underlying Technology and Development
+
+Alttjs is developed in the framework of the SICS Research group. Statisticians, Mathematicians and Computer Scientists devoted to produce the world's fastest Item Response Theory Applications.
+
+## Benchmarks
+
+## Help
+
