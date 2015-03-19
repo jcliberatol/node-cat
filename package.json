@@ -1,0 +1,29 @@
+{
+  "name": "nodecat",
+  "version": "0.0.0",
+  "description": "Computer adaptive testing implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jcliberatol/node-cat.git"
+  },
+  "keywords": [
+    "irt",
+    "statistics",
+    "mirt",
+    "cat",
+    "adaptive",
+    "testing",
+    "test",
+    "school"
+  ],
+  "author": "Juan Liberato <jcliberatol@unal.edu.co> (dascire.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcliberatol/node-cat/issues"
+  },
+  "homepage": "https://github.com/jcliberatol/node-cat"
+}
